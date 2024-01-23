@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.makelty.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_creation"
+        android:name="com.example.makelty.ui.Creation.CreateFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_creation" />
+
+    <fragment
+        android:id="@+id/navigation_menus"
+        android:name="com.example.makelty.ui.Menus.MenusFragment"
+        android:label="Menus"
+        tools:layout="@layout/fragment_menus" />
+
+
+    <fragment
+        android:id="@+id/navigation_Settings"
+        android:name="com.example.makelty.ui.Settings.SettingsFragment"
+        android:label="Paramètres"
+        tools:layout="@layout/fragment_settings" />
+</navigation>

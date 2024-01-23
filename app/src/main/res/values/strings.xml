@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Makelty</string>
+    <string name="register">ENREGISTRER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Mot de passe</string>
+    <string name="login_password_reset">Entrer le code OTP</string>
+    <string name="signup_login_hint">Vous avez déjà un compte ? CONNECTER</string>
+    <string name="login_signup_hint">Vous n\'avez pas de compte ? ENREGISTRER</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">home</string>
+    <string name="title_home">Home</string>
+    <string name="title_creation">Creation</string>
+    <string name="title_menus">Menus</string>
+    <string name="title_setting">Paramètres</string>
+    <string name="creer_mon_plat">Creer mon plat</string>
+</resources>
