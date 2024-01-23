@@ -5,7 +5,7 @@
 Makelty transforms the way you plan your meals using the ingredients available in your kitchen. With an intuitive user interface, our app streamlines the process of weekly meal planning.
 
 <p align="center">
-  <img src="https://github.com/Nabegh-Anane/Makelty/blob/main/app/logo.png?raw=true" alt="Logo" width="100" height="100">
+  <img src="https://github.com/Nabegh-Anane/Makelty/blob/main/app/logo.png?raw=true" alt="Logo" width="250" height="250">
 </p>
 
 ## Screenshots
