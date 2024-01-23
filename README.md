@@ -1,28 +1,32 @@
-﻿# Makelty - Your Ultimate Meal Planning Companion for Android!
+# Makelty - Your Ultimate Meal Planning Companion for Android!
 
 ## Description
 
 Makelty transforms the way you plan your meals using the ingredients available in your kitchen. With an intuitive user interface, our app streamlines the process of weekly meal planning.
 
-![App Logo](https://github.com/Nabegh-Anane/Makelty/blob/main/app/logo.png?raw=true)
+<p align="center">
+  <img src="https://github.com/Nabegh-Anane/Makelty/blob/main/app/logo.png?raw=true" alt="Logo" width="100" height="100">
+</p>
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230522-235016.jpg)
-![App Screenshot](https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-000052.jpg?raw=true)
-![App Screenshot](https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-000116.jpg?raw=true)
-![App Screenshot](https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-000140.jpg?raw=true)
-![App Screenshot](https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-000311.jpg?raw=true)
-![App Screenshot](https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-000342.jpg?raw=true)
-![App Screenshot](https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-000419.jpg?raw=true)
-![App Screenshot](https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-000433.jpg?raw=true)
-![App Screenshot](https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-011258.jpg?raw=true)
-![App Screenshot](https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-023901.jpg?raw=true)
-![App Screenshot](https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-024815.jpg?raw=true)
-![App Screenshot](https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-025104.jpg?raw=true)
-![App Screenshot](https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-025401.jpg?raw=true)
-![App Screenshot](https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-025531.jpg?raw=true)
-![App Screenshot](https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-030255.jpg?raw=true)
+<p align="center">
+   <img src="https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230522-235016.jpg?raw=true" alt="App Screenshot" width="108" height="240.8">
+   <img src="https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-000052.jpg?raw=true" alt="App Screenshot" width="108" height="240.8">
+   <img src="https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-000116.jpg?raw=true" alt="App Screenshot" width="108" height="240.8">
+   <img src="https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-000140.jpg?raw=true" alt="App Screenshot" width="108" height="240.8">
+   <img src="https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-000311.jpg?raw=true" alt="App Screenshot" width="108" height="240.8">
+   <img src="https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-000342.jpg?raw=true" alt="App Screenshot" width="108" height="240.8">
+   <img src="https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-000419.jpg?raw=true" alt="App Screenshot" width="108" height="240.8">
+   <img src="https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-000433.jpg?raw=true" alt="App Screenshot" width="108" height="240.8">
+   <img src="https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-011258.jpg?raw=true" alt="App Screenshot" width="108" height="240.8">
+   <img src="https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-023901.jpg?raw=true" alt="App Screenshot" width="108" height="240.8">
+   <img src="https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-024815.jpg?raw=true" alt="App Screenshot" width="108" height="240.8">
+   <img src="https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-025104.jpg?raw=true" alt="App Screenshot" width="108" height="240.8">
+   <img src="https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-025401.jpg?raw=true" alt="App Screenshot" width="108" height="240.8">
+   <img src="https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-025531.jpg?raw=true" alt="App Screenshot" width="108" height="240.8">
+   <img src="https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-030255.jpg?raw=true" alt="App Screenshot" width="108" height="240.8">
+</p>
 
 ## Key Features
 
