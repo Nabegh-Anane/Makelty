@@ -8,7 +8,7 @@ Makelty transforms the way you plan your meals using the ingredients available i
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230522-235016.jpg?raw=true)
+![App Screenshot](https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230522-235016.jpg)
 ![App Screenshot](https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-000052.jpg?raw=true)
 ![App Screenshot](https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-000116.jpg?raw=true)
 ![App Screenshot](https://github.com/Nabegh-Anane/Makelty/blob/main/app/Screenshot_20230523-000140.jpg?raw=true)
